@@ -1,4 +1,4 @@
-### Hi I hope your day is going well👋
+### Hi, I hope your day is going well👋
 
 <!--
 **pndchels/pndchels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
