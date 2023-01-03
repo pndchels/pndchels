@@ -21,7 +21,11 @@ My name is Chelsea and I am recently going through a program to learn more about
 
 🌱 I’m currently learning CSS and HTML
 
+
 🤔 I’m looking for help with finding efficient programs to learn more about frontend development
+
+ 🔭 View my latest work:https://codepen.io/your-work
+
 
 📫 How to reach me: On Likenin Chelsea Delancy https://www.linkedin.com/in/chelseadelancy/
 
@@ -31,7 +35,7 @@ Fun Fact: I enjoy boxing and playing softball. I have now played sofball going o
 ![image](https://user-images.githubusercontent.com/120057769/210396723-5ace1ad9-aa26-435a-9610-4563f0d039d4.png)
 
 
-![image](https://user-images.githubusercontent.com/120057769/210396087-002e8f9b-fed8-4aee-b884-bf21fe2486d4.png)
+![image](https://user-images.githubusercontent.com/120057769/210400465-4ba77bce-baa0-4030-9d92-1d14e84bde8c.png)
 
 
 ## :game_die: Join my community Connect Four game!
