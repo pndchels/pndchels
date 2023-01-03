@@ -32,11 +32,11 @@ My name is Chelsea and I am recently going through a program to learn more about
 
 Fun Fact: I enjoy boxing and playing softball. I have now played sofball going on 17 years now 
 
-![image](https://user-images.githubusercontent.com/120057769/210400956-77e16ea8-7138-4583-8ffa-1a0819619779.png)
+![image](https://user-images.githubusercontent.com/120057769/210401104-41c4e026-cfdc-41f8-8e08-0f8c4c781b52.png)
 
 
 
-![image](https://user-images.githubusercontent.com/120057769/210400465-4ba77bce-baa0-4030-9d92-1d14e84bde8c.png)
+![image](https://user-images.githubusercontent.com/120057769/210401482-31453701-b8e2-43e5-a98d-bd0d2e6a9e68.png)
 
 
 ## :game_die: Join my community Connect Four game!
