@@ -26,7 +26,7 @@ My name is Chelsea and I am recently going through a program to learn more about
 📫 How to reach me: On Likenin Chelsea Delancy https://www.linkedin.com/in/chelseadelancy/
 
 
-Fun Fact: I enjoy boxing and playing softball 
+Fun Fact: I enjoy boxing and playing softball. I have now played sofball going on 17 years now 
 
 ![image](https://user-images.githubusercontent.com/120057769/210396723-5ace1ad9-aa26-435a-9610-4563f0d039d4.png)
 
