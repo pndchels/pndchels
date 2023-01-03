@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I box and play softball 
 -->
-@@ -7,33 +7,33 @@ I am recently going through a program to learn more about frontend development [Frontend development training]([https://computercoach.com/])
+My name is Chelsea and I am recently going through a program to learn more about frontend development [Frontend development training]([https://computercoach.com/])
 
 ## :game_die: Join my community Connect Four game!
 ![](https://img.shields.io/badge/Moves%20played-7511-blue)
