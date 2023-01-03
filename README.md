@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I box and play softball 
 -->
 My name is Chelsea and I am recently going through a program to learn more about frontend development [Frontend development training]([https://computercoach.com/])
+
+
 ![image](https://user-images.githubusercontent.com/120057769/210395605-5990515c-751d-44d9-b242-56601f3ea311.png)
+
+
+Fun Fact: I enjoy boxing and playing softball 
+
+![image](https://user-images.githubusercontent.com/120057769/210395887-9ed9cb97-04ff-45c6-8124-92253b9d381c.png)
+
+![image](https://user-images.githubusercontent.com/120057769/210396087-002e8f9b-fed8-4aee-b884-bf21fe2486d4.png)
 
 
 ## :game_die: Join my community Connect Four game!
