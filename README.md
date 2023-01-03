@@ -32,7 +32,8 @@ My name is Chelsea and I am recently going through a program to learn more about
 
 Fun Fact: I enjoy boxing and playing softball. I have now played sofball going on 17 years now 
 
-![image](https://user-images.githubusercontent.com/120057769/210396723-5ace1ad9-aa26-435a-9610-4563f0d039d4.png)
+![image](https://user-images.githubusercontent.com/120057769/210400956-77e16ea8-7138-4583-8ffa-1a0819619779.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/120057769/210400465-4ba77bce-baa0-4030-9d92-1d14e84bde8c.png)
